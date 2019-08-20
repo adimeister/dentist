@@ -1,0 +1,97 @@
+.navbar-brand{
+    margin-left:7%;
+    width:7em;
+    height:7em;
+    
+
+}
+.tooth-image{
+    height:7em;
+    width:7em;
+}
+.navbar{
+    height:10em;
+    border-bottom: black solid 1px;
+    background-color:white;
+}
+
+.navbar-nav{
+   
+    margin-right:15%;
+    font-size: 1.5em;
+    
+}
+.main-back{
+    margin-top:10em;
+    background-image: url("images/mainback.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    height:500px;
+    
+}
+.head-text{
+    margin-left:35%;
+    margin-top:6em;
+    color:white;
+}
+.head-button{
+    margin-left:45%;
+    margin-top:5%
+}
+.hor-line{
+    background-color:lightseagreen;
+    width:5%;
+    height:5px;
+    margin-top:5%;
+
+}
+.about-head{
+    text-align: center;
+    margin-top:5%;
+    margin-bottom:3%;
+}
+.doctor-img{
+    margin-top:10%;
+    margin-left:10%;
+    width:90%;
+    height:90%;
+}
+.about-text{
+    margin-top:10%;
+    line-height: 2em;
+
+}
+.services-text{
+    font-size:2em;
+    margin-left:40%;
+}
+.main-footer{
+    background-color: #333C44;
+    height:200px;
+    border-top: black 1px solid;
+
+}
+.footer-link{
+    color:white;
+    margin-left:2em;
+    text-decoration: underline;
+
+   
+}
+.right-text{
+    text-align: right;
+    margin-right:2em;
+
+}
+.contact{
+    margin-top:12em;
+}
+.head-text-left{
+    margin-left:20%;
+    margin-bottom:5%;
+}
+.privacy-text{
+    font-size:1.5em;
+    line-height: 1.5em;
+
+}
